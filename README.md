@@ -1,4 +1,4 @@
-# Tech Conferences Tracker
+# Tech Conferences Tracker for 2023, India
 
 This repository is dedicated to tracking upcoming tech conferences.
 
