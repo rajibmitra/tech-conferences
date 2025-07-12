@@ -1,36 +1,61 @@
-# Tech Conferences Tracker for 2023, India
+# 🚀 Tech Conferences Tracker for India
 
-This repository is dedicated to tracking upcoming tech conferences.
+Welcome! This repository tracks the most exciting upcoming tech conferences in India.  
+Stay updated and join the best minds in tech!
+
+---
 
 ## Upcoming Conferences
 
-### GopherCon India 2023
+### 2025
 
-- **Link**: [GopherCon India 2023](https://gopherconindia.org/)
-- **Date**: September 09, 2023 - September 10, 2023
+#### FOSSIndia
+- **Link**: [FOSSIndia](https://fossunited.org/)
+- **Date**: September 19-21, 2025
 
-### Pycon India 2023
+#### PyCon India
+- **Link**: [PyCon India](https://in.pycon.org/)
+- **Date**: September 12-15, 2025
 
-- **Link**: [Pycon India 2023](https://www.python.org/events/python-events/1496/)
-- **Date**: From 29 Sept. through 02 Oct., 2023
+#### KubeCon
+- **Link**: [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+- **Date**: August 6-7, 2025
 
-### DevOpsDay India 2023
+#### OpenSSF India
+- **Link**: [OpenSSF](https://openssf.org/)
+- **Date**: August 4, 2025
 
-- **Link**: [DevOpsDay India 2023](https://devopsdays.org/events/2023-bengaluru/welcome/)
-- **Date**: October 20 - 21, 2023
+#### Quantum India Bangalore Conference
+- **Link**: [Quantum India Bangalore](https://quantumindia.in/)
+- **Date**: July 31 - August 1, 2025
 
-### Kubeday India 2023
+---
 
+### 2023
+
+#### Kubeday India
 - **Link**: [Kubeday India 2023](https://events.linuxfoundation.org/kubeday-india/)
-- **Date**: 8 December 2023
+- **Date**: December 8, 2023
+
+#### DevOpsDay India
+- **Link**: [DevOpsDay India 2023](https://devopsdays.org/events/2023-bengaluru/welcome/)
+- **Date**: October 20-21, 2023
+
+#### PyCon India
+- **Link**: [PyCon India 2023](https://www.python.org/events/python-events/1496/)
+- **Date**: September 29 - October 2, 2023
+
+#### GopherCon India
+- **Link**: [GopherCon India 2023](https://gopherconindia.org/)
+- **Date**: September 9-10, 2023
 
 ---
 
 ## Contributing
 
-If you know of other upcoming tech conferences that are not listed here, feel free to open an issue or submit a pull request!
+Know of other upcoming tech conferences?  
+Open an issue or submit a pull request—help us keep this list awesome!
 
 ## License
 
-This project is open-source. Feel free to use, share, and modify.
-
+This project is open-source. Feel free to use, share
